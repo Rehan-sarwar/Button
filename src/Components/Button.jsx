@@ -4,7 +4,7 @@ import { FaBars } from "react-icons/fa6"
 function Button() {
   return (
     <div>
-      <div className='flex  justify-between  p-[5px] px-5  items-center  '>
+      <div className='xl:flex  justify-between  p-[5px] px-5  items-center lg:flex hidden '>
       <img className='w-[200px]' src="Groovy1.png" alt="" />
      <div className='flex  gap-10 text-[18px] text-white -bottom-full '>
      <ul class=" navbar-nav flex items-center gap-[40px]  ">
