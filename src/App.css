@@ -27,3 +27,16 @@
     width: 100%;
     transition: width .5s;
 }
+
+.heading1{
+  font-weight: 800;
+  font-style: normal;
+  color: white;
+  max-width: 700px;
+  line-height: 1;
+  }
+
+  .Eat{
+    border-left: 1px solid;
+   
+  }
